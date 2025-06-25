@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="1FN">
-    <mxGraphModel dx="1494" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="983" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FfWJRhdwBULrl84OohLK-25" value="MATERIAS REGULARIZADAS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="710" y="40" width="210" height="236" as="geometry" />
+          <mxGeometry x="640" y="40" width="210" height="236" as="geometry" />
         </mxCell>
         <mxCell id="FfWJRhdwBULrl84OohLK-26" value="&lt;div&gt;&lt;u&gt;Cod. Carrera&lt;/u&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="FfWJRhdwBULrl84OohLK-25" vertex="1">
           <mxGeometry y="26" width="210" height="30" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="20" y="30" width="366.95" height="360" as="geometry" />
         </mxCell>
         <mxCell id="FfWJRhdwBULrl84OohLK-51" value="CALIFICACIONES" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="580" y="310" width="200" height="176" as="geometry" />
+          <mxGeometry x="540" y="290" width="200" height="176" as="geometry" />
         </mxCell>
         <mxCell id="FfWJRhdwBULrl84OohLK-53" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;Cod. Carrera&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="FfWJRhdwBULrl84OohLK-51" vertex="1">
           <mxGeometry y="26" width="200" height="30" as="geometry" />
@@ -77,7 +77,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6iBSbg7MflsqP-cVGGFp" name="2FN">
-    <mxGraphModel dx="2253" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
           <mxGeometry y="120" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6-I9_BVO9Q70xsCgXUM-14" value="DOCENTE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="190" y="70" width="190" height="86" as="geometry" />
+          <mxGeometry x="210" y="68" width="190" height="86" as="geometry" />
         </mxCell>
         <mxCell id="y6-I9_BVO9Q70xsCgXUM-15" value="&lt;u&gt;Legajo docente&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="y6-I9_BVO9Q70xsCgXUM-14" vertex="1">
           <mxGeometry y="26" width="190" height="30" as="geometry" />
@@ -106,7 +106,7 @@
           <mxGeometry y="56" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6-I9_BVO9Q70xsCgXUM-17" value="ESTUDIOS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="650" y="70" width="160" height="146" as="geometry" />
+          <mxGeometry x="590" y="68" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="y6-I9_BVO9Q70xsCgXUM-18" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Cod. Carrera&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=4" parent="y6-I9_BVO9Q70xsCgXUM-17" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6-I9_BVO9Q70xsCgXUM-22" value="MATERIA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="190" y="420" width="160" height="116" as="geometry" />
+          <mxGeometry x="240" y="370" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="y6-I9_BVO9Q70xsCgXUM-23" value="Cod. Materia" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=4" parent="y6-I9_BVO9Q70xsCgXUM-22" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry x="-200" y="90" width="366.95" height="360" as="geometry" />
         </mxCell>
         <mxCell id="odXWyic7UjP_ijCyh0A1-3" value="MATERIAS REGULARIZADAS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="414" y="250" width="210" height="146" as="geometry" />
+          <mxGeometry x="414" y="234" width="210" height="146" as="geometry" />
         </mxCell>
         <mxCell id="odXWyic7UjP_ijCyh0A1-4" value="&lt;u&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;N° de Legajo&lt;/font&gt;&lt;/font&gt;&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="odXWyic7UjP_ijCyh0A1-3" vertex="1">
           <mxGeometry y="26" width="210" height="30" as="geometry" />
@@ -151,7 +151,7 @@
           <mxGeometry y="116" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odXWyic7UjP_ijCyh0A1-9" value="CALIFICACIONES" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="190" y="190" width="210" height="190" as="geometry" />
+          <mxGeometry x="190" y="170" width="210" height="190" as="geometry" />
         </mxCell>
         <mxCell id="odXWyic7UjP_ijCyh0A1-12" value="&lt;u&gt;Cod.Materia&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="odXWyic7UjP_ijCyh0A1-9" vertex="1">
           <mxGeometry y="40" width="210" height="30" as="geometry" />
@@ -169,7 +169,7 @@
           <mxGeometry y="160" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odXWyic7UjP_ijCyh0A1-17" value="DOCENTE_MATERIAS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="263" width="140" height="150" as="geometry" />
+          <mxGeometry x="640" y="234" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="odXWyic7UjP_ijCyh0A1-18" value="&lt;u&gt;Año de Cursada&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="odXWyic7UjP_ijCyh0A1-17" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -782,7 +782,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2m_T6yQFhRlw6OiD1iPx" name="DER FINAL">
-    <mxGraphModel dx="2276" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
